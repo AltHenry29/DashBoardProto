@@ -13,7 +13,7 @@ Se utilizo JavaFX, .css, y se cargaron los elementos/metodos en cada uno de los 
 Esta estructurado asi:
 
 src/
-│
+|
 ├── main.java.com.example.laterals/
 │   └── DashboardController.java
 │   └── HelloAplication.java
